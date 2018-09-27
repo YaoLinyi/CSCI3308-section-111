@@ -1,2 +1,2 @@
 # CSCI3308-section-111
-# Linyi yao Lab4 version control
+Linyi yao lab4 version control
